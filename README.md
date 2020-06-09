@@ -6,4 +6,4 @@ Esse projeto foi desenvolvido em 5 dias no curso da RocketSeat Next Level Week v
 Para mim, que sou iniciante, a semana foi bastante instensa e representou um avanço incrível. Sinto que ainda tenho muito que percorrer, mas este já é um primeiro passo.
 
 
-<img src="/paula/Pictures/Screenshot.png">
+<img src="paula/Pictures/Screenshot.png">
